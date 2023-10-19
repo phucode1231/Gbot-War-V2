@@ -21,7 +21,7 @@
     "ABSOLUTES": [
         
     ],
-    "NAME": "GBOT - CHIẾN THẦN SÀN WAR 4.0",
+    "NAME": "NGUYỄN THANH PHÚ ĐẤNG SÀN TREO👾",
     "PREFIX": "!",
     "timezone": "Asia/Ho_Chi_Minh",
     "REFRESH": "43200000",
@@ -33,7 +33,7 @@
         "OTP_KEY": ""
     },
     "GBOTWAR_MESSAGE": {
-        "notiWelecome": "Bố Nhật tới rồi đây, địt mẹ các con quỳ xuống",
+        "notiWelecome": "cha ntp tới rồi đây, địt mẹ các con quỳ xuống",
         "notiApprove": "GBOT đã được phê duyệt để tham chiến",
         "notiAutoRegBox": "Xin chào bạn đã bị vào tầm ngắm của auto regbox"
     }
