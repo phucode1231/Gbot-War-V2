@@ -100,7 +100,7 @@ async function Running({ message, args }) {
 	if (isCallingStop) {
 		if (!global.chuilientuc.has(message.threadID)) return message.reply("Bot không đang chửi ai cả");
 		global.chuilientuc.delete(message.threadID);
-		return message.reply("Nhật Dz tha cho mày đó akakak");
+		return message.reply("Thanh Phú Dz tha cho mày đó akakak");
 	}
 
 
